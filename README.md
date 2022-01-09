@@ -47,3 +47,7 @@ I'm Saketh Raman KS, pursuing MSc Software Systems at PSG College of Techmology.
 <img src="https://github-readme-stats.vercel.app/api?username=SakethRamanKS&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=SakethRamanKS&theme=blueberry_duo"/>
 |---|---|
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakethRamanKS&layout=compact&theme=github_dark"/>|
+
+
+## Contact
+<a href="mailto:sakethramansundaram78@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
