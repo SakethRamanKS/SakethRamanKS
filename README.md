@@ -36,8 +36,11 @@ I'm Saketh Raman KS, pursuing MSc Software Systems at PSG College of Techmology.
 
  <div align='left'>
   <a href="#"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+ <a href="#"> <img src='https://img.shields.io/static/v1?label=&message=PostgreSQL&color=lightblue&style=for-the-badge&logo=postgresql' /> </a>
   <a href="#"><img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
+   <a href="#"> <img src='https://img.shields.io/static/v1?label=&message=Apache%20Spark&style=for-the-badge&logo=apache-spark&color=e25a1c&logoColor=white' /></a>
+ 
 </div>
 
 ## 📈 Github Stats
