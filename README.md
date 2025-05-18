@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Saketh Raman KS, pursuing MSc Software Systems at PSG College of Techmology.
-
 ## Languages
 
  <div align='left'>
